@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 87,
-    "timeDay": 87,
-    "timeWeek": 87,
-    "timeMonth": 87,
-    "timeYear": 87,
+    "time": 85,
+    "timeDay": 85,
+    "timeWeek": 85,
+    "timeMonth": 85,
+    "timeYear": 85,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 199,
-    "timeDay": 199,
-    "timeWeek": 199,
-    "timeMonth": 199,
-    "timeYear": 199,
+    "time": 223,
+    "timeDay": 223,
+    "timeWeek": 223,
+    "timeMonth": 223,
+    "timeYear": 223,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 129,
-    "timeDay": 129,
-    "timeWeek": 129,
-    "timeMonth": 129,
-    "timeYear": 129,
+    "time": 125,
+    "timeDay": 125,
+    "timeWeek": 125,
+    "timeMonth": 125,
+    "timeYear": 125,
     "dailyMinutesDown": {}
   },
   {
@@ -70,5 +70,25 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Test Website",
+    "url": "https://test-website.notarealdomain.com",
+    "icon": "https://icons.duckduckgo.com/ip3/test-website.notarealdomain.com.ico",
+    "slug": "test-website",
+    "status": "down",
+    "uptime": "78.52%",
+    "uptimeDay": "78.52%",
+    "uptimeWeek": "78.52%",
+    "uptimeMonth": "78.52%",
+    "uptimeYear": "78.52%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-05-18": 0
+    }
   }
 ]
