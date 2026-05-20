@@ -12,7 +12,7 @@ sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: Test Website
-    url: https://www.youtube.com # https://test-website.notarealdomain.com
+    url: https://test-website.notarealdomain.com # https://www.youtube.com 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
