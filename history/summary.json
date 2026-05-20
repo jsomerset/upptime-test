@@ -1,57 +1,63 @@
 [
   {
     "name": "Google",
-    "url": "https://www.google.com",
+    "url": "https://www.google.com/pretendurlpathfortesting",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 85,
-    "timeDay": 86,
-    "timeWeek": 85,
-    "timeMonth": 85,
-    "timeYear": 85,
-    "dailyMinutesDown": {}
+    "time": 89,
+    "timeDay": 91,
+    "timeWeek": 89,
+    "timeMonth": 89,
+    "timeYear": 89,
+    "dailyMinutesDown": {
+      "2026-05-20": 1
+    }
   },
   {
     "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
+    "url": "https://en.wikipedia.org/pretendurlpathfortesting",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 138,
-    "timeDay": 126,
+    "timeDay": 127,
     "timeWeek": 138,
     "timeMonth": 138,
     "timeYear": 138,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-20": 1
+    }
   },
   {
     "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
+    "url": "https://news.ycombinator.com/pretendurlpathfortesting",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 270,
-    "timeDay": 350,
-    "timeWeek": 270,
-    "timeMonth": 270,
-    "timeYear": 270,
-    "dailyMinutesDown": {}
+    "time": 248,
+    "timeDay": 308,
+    "timeWeek": 248,
+    "timeMonth": 248,
+    "timeYear": 248,
+    "dailyMinutesDown": {
+      "2026-05-20": 0
+    }
   },
   {
     "name": "Test Broken Site",
