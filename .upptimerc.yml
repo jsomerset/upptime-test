@@ -4,11 +4,11 @@ repo: upptime-test # The name of this repository
 
 sites:
   - name: Google
-    url: https://www.google.com/pretendurlpathfortesting
+    url: https://www.google.com
   - name: Wikipedia
-    url: https://en.wikipedia.org/pretendurlpathfortesting
+    url: https://en.wikipedia.org
   - name: Hacker News
-    url: https://news.ycombinator.com/pretendurlpathfortesting
+    url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: Test Website
