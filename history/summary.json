@@ -6,8 +6,8 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "97.50%",
-    "uptimeWeek": "99.64%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "99.67%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 91,
@@ -16,7 +16,6 @@
     "timeMonth": 91,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2026-05-21": 3,
       "2026-05-20": 33
     }
   },
@@ -27,8 +26,8 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "97.52%",
-    "uptimeWeek": "99.65%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "99.67%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 139,
@@ -37,7 +36,6 @@
     "timeMonth": 139,
     "timeYear": 139,
     "dailyMinutesDown": {
-      "2026-05-21": 3,
       "2026-05-20": 33
     }
   },
@@ -48,9 +46,9 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "97.55%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 258,
     "timeDay": 236,
@@ -58,7 +56,6 @@
     "timeMonth": 258,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2026-05-21": 2,
       "2026-05-20": 33
     }
   },
